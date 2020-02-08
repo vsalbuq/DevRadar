@@ -1,0 +1,11 @@
+{
+  "name": "DevRadar",
+  "description": "A map to find devs by area.",
+  "authors": "Vinícius Albuquerque",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "server",
+    "clients/*"
+  ]
+}
