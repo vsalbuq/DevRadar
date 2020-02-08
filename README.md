@@ -25,6 +25,7 @@
   <a href="#rocket-technologies">Technologies used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-can-i-run-it">How can I run it?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-can-i-help">How can I help?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
@@ -37,7 +38,7 @@
 
 ## :rocket: Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project uses these technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
@@ -46,26 +47,30 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Project
 
-O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
+DevRadar wants to connect developers near your area that work with the same technologies you do.
 
 ## 🔖 Layout
 
-Você pode baixar o layout do projeto no formato `.sketch` através [desse link](.github/DevRadar.sketch).
+You can download the layout (`.sketch`) using [this link](.github/DevRadar.sketch).
 
-Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Figma](https://figma.com).
+To open it in any SO, use [Figma](https://figma.com).
+
+## 👨‍💻 How can I run it?
+
+Soon.
 
 ## 🤔 How can I help?
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+- Fork this repository;
+- Create a branch with your feature: `git checkout -b minha-feature`;
+- Commit your changes: `git commit -m 'feat: Minha nova feature'`;
+- Push it to your branch: `git push origin minha-feature`.
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+After merging your pull request, your branch can be deleted;
 
 ## :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project uses the MIT license. Read [LICENSE](LICENSE.md) for details.
 
 ---
 
